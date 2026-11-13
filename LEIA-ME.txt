@@ -1,0 +1,34 @@
+ESCOLHAS QUE PROTEGEM — WEBSITE EDUCATIVO
+Tema: Álcool e drogas
+
+COMO ABRIR
+1. Extraia o ficheiro ZIP para uma pasta.
+2. Abra a pasta e procure o ficheiro index.html.
+3. Toque/clique duas vezes em index.html para abrir no navegador.
+4. O website funciona sem servidor e sem instalação de programas.
+
+COMO PUBLICAR NO GITHUB PAGES
+1. Crie um repositório no GitHub.
+2. Envie todos os ficheiros e pastas que estão dentro desta pasta (não envie apenas o ZIP).
+3. Confirme que index.html está na raiz do repositório.
+4. Em Settings > Pages, escolha Deploy from a branch, seleccione a branch main e a pasta /(root), depois guarde.
+5. Aguarde a publicação e abra o endereço indicado pelo GitHub.
+
+ESTRUTURA
+- index.html: conteúdo e secções do website.
+- styles.css: cores, layout e adaptação a telemóveis.
+- script.js: menu móvel e ano automático.
+- assets/: ilustração e ícone do website.
+
+PERSONALIZAÇÃO
+O grupo pode acrescentar no rodapé o nome da escola, turma, classe, nomes dos integrantes e docente. O texto deve ser revisto pelo grupo antes da apresentação.
+
+NOTA DE RESPONSABILIDADE
+Este é um trabalho educativo. Não substitui aconselhamento, diagnóstico ou tratamento de profissionais de saúde. Em caso de preocupação, procure um adulto de confiança e serviços de saúde locais.
+
+FONTES PRINCIPAIS
+OMS — https://www.who.int/news-room/fact-sheets/detail/alcohol
+OMS — https://www.who.int/health-topics/drugs-psychoactive/
+OMS — https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions
+OMS/UNODC — https://www.who.int/publications/i/item/international-standards-for-drug-use-prevention-second-edition-2018
+OMS/UNODC — https://www.who.int/publications/i/item/international-standards-for-the-treatment-of-drug-use-disorders
